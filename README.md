@@ -24,13 +24,13 @@ The dataset (not included in repo) contains housing-related features:
 - **Population**
 - **House Price (Target variable)**
 
-**requirements.txt**
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-joblib
+## requirements-
+--numpy
+--pandas
+--scikit-learn
+--matplotlib
+--seaborn
+--joblib
 
 Usage
 1. Run the Jupyter Notebook
