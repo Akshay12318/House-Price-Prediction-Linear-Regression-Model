@@ -26,19 +26,20 @@ The dataset (not included in repo) contains housing-related features:
 
 ## 📦 Requirements :
 - numpy
---pandas
---scikit-learn
---matplotlib
---seaborn
---joblib
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+- joblib
 
 Usage
 1. Run the Jupyter Notebook
 
 Open and execute the notebook to see:
---Data preprocessing
---Exploratory Data Analysis (EDA)
---Model training & evaluation
+- numpy
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Model training & evaluation
 
 # Input 
 income = 44000
