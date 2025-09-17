@@ -40,10 +40,10 @@ Run the Jupyter Notebook,Open and execute the notebook to see:
 - Model training & evaluation
 
 # Input 
-income = 44000
-house_age = 5
-rooms = 3
-bedrooms = 4
+income = 44000,
+house_age = 5,
+rooms = 3,
+bedrooms = 4,
 population = 50000
 
 # Example output
