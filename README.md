@@ -33,9 +33,7 @@ The dataset (not included in repo) contains housing-related features:
 - joblib
 
 Usage
-1. Run the Jupyter Notebook
-
-Open and execute the notebook to see:
+Run the Jupyter Notebook,Open and execute the notebook to see:
 - numpy
 - Data preprocessing
 - Exploratory Data Analysis (EDA)
@@ -49,9 +47,9 @@ bedrooms = 4
 population = 50000
 
 # Example output
-You can sell your house at $269559
+- You can sell your house at $269559
 
 **Results**-
-Model trained using Linear Regression from scikit-learn.
-Predictions are based on provided housing features.
-The model achieves a reasonable approximation of house prices.
+- Model trained using Linear Regression from scikit-learn.
+- Predictions are based on provided housing features.
+- The model achieves a reasonable approximation of house prices.
