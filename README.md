@@ -24,7 +24,7 @@ The dataset (not included in repo) contains housing-related features:
 - **Population**
 - **House Price (Target variable)**
 
-## requirements-
+## 📦 Requirements
 --numpy
 --pandas
 --scikit-learn
